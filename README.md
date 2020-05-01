@@ -6,6 +6,6 @@ cd FSO-FACEBOOK-V2
 
 chmod 777 fsociety-v2.sh
 
-chmod 777 fsoarab.sh
-
 bash fsociety-v2.sh
+
+# تم تثبيث الاداة بي نجاح تام 
