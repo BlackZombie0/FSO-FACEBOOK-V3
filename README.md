@@ -1,5 +1,11 @@
 # FSO-FACEBOOK-V2
 
+# Hack your friends and pull your email, phone number and account information
+# Hijacked accounts are available
+
+
+# ........... Installation orders ..........
+
 git clone https://github.com/FSOCIETY-coder-dz/FSO-FACEBOOK-V2.git
 
 cd FSO-FACEBOOK-V2
