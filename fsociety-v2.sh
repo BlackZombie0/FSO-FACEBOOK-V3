@@ -49,3 +49,5 @@ curl -T output/fuck8.html http://wildattuli.com
 curl -T output/fuck9.html http://wildattuli.com
 curl -T output/fuck0.html http://wildattuli.com
 echo '[+] ERROR RETRY ACCESS ERROR!';
+echo '!!! ⚠ PAGE NOT FOUND ⚠  !!!';
+echo '!!! ⚠ ERROR error ERROR error ERROR ⚠ !!!';
