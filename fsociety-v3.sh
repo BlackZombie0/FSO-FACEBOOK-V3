@@ -36,8 +36,8 @@ echo '         \ \   ||.||.||.||.||   / / ';
 echo '          \_   ||_||_||_||_||   _/ ';
 echo '            \     ........     / ';
 echo '             \________________/ MOUSSSA  ';
+
 echo 'Login To Your Account First!'
-echo ''
 read -p 'Username/Email:' username
 read -p 'Password:' password
 echo '[+] Login to facebook...';
