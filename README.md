@@ -6,12 +6,12 @@
 
 # ........... Installation orders ..........
 
-git clone https://github.com/FSOCIETY-coder-dz/FSO-FACEBOOK-V2.git
+git clone https://github.com/FSOCIETY-coder-dz/FSO-FACEBOOK-V3.git
 
-cd FSO-FACEBOOK-V2
+cd FSO-FACEBOOK-V3
 
-chmod 777 fsociety-v2.sh
+chmod 777 fsociety-v3.sh
 
-bash fsociety-v2.sh
+bash fsociety-v3.sh
 
 # تم تثبيث الاداة بي نجاح تام 
