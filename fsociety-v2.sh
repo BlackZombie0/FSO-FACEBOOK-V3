@@ -18,25 +18,36 @@ echo '  | |__   | |___  | | | | | |     | | | |__     | |    \ \/ /  ';
 echo '  |  __|  \___  \ | | | | | |     | | |  __|    | |     \  /   ';
 echo '  | |      ___| | | |_| | | |___  | | | |___    | |     / /    ';
 echo '  |_|     /_____/ \_____/ \_____| |_| |_____|   |_|    /_/1.2.0';
-echo '    .o oOOOOOOOo                                            OOOo      ';
-echo '     Ob.OOOOOOOo  OOOo.      oOOo.                      .adOOOOOOO    ';
-echo '     OboO"""""""""""".OOo. .oOOOOOo.    OOOo.oOOOOOo.."""""""""'OO    ';
-echo '     OOP.oOOOOOOOOOOO "POOOOOOOOOOOo.   `"OOOOOOOOOP,OOOOOOOOOOOB     ';
-echo '    `O'OOOO'     `OOOOo"OOOOOOOOOOO` .adOOOOOOOOO"oOOO'    `OOOOo     ';
-echo '     .OOOO'            `OOOOOOOOOOOOOOOOOOOOOOOOOO'            `OO    ';
-echo '     OOOOO                 '"OOOOOOOOOOOOOOOO"`                oOO    ';
-echo '    oOOOOOba.                .adOOOOOOOOOOba               .adOOOOo.  ';
-echo '   oOOOOOOOOOOOOOba.    .adOOOOOOOOOO@^OOOOOOOba.     .adOOOOOOOOOOOO ';
-echo '  OOOOOOOOOOOOOOOOO.OOOOOOOOOOOOOO"`  '"OOOOOOOOOOOOO.OOOOOOOOOOOOOO  ';
-echo '  "OOOO"       "YOoOOOOMOIONODOO"`  .   '"OOROAOPOEOOOoOY"     "OOO"  ';
-echo '     Y           'OOOOOOOOOOOOOO: .oOOo. :OOOOOOOOOOO?'         :`    ';
-echo '     :            .oO%OOOOOOOOOOo.OOOOOO.oOOOOOOOOOOOO?         .     ';
-echo '     .            oOOP"%OOOOOOOOoOOOOOOO?oOOOOO?OOOO"OOo              ';
-echo '                 '%o  OOOO"%OOOO%"%OOOOO"OOOOOO"OOO':                 ';
-echo '                       `$"  `OOOO' `O"Y ' `OOOO'  o       .           ';
-echo '     .                  .     OP"          : o     .                  ';
-echo '                               :                                      ';
-echo '                               .                                      ';
+echo '            ____________________________________________________   ';
+echo '           /                                                    \  ';
+echo '          |    _____________________________________________     | ';
+echo '          |   |                                             |    | ';
+echo '          |   |  C:\> _ FSOCIETI                            |    | ';
+echo '          |   |                                             |    | ';
+echo '          |   |                                             |    | ';
+echo '          |   |                                             |    | ';
+echo '          |   |                                             |    | ';
+echo '          |   |                                             |    | ';
+echo '          |   |                                             |    | ';
+echo '          |   |                                             |    | ';
+echo '          |   |                                             |    | ';
+echo '          |   |                                             |    | '; 
+echo '          |   |                                             |    | ';
+echo '          |   |                                             |    | ';
+echo '          |   |_____________________________________________|    | ';
+echo '          |                                                      | ';
+echo '           \_____________________________________________________/ ';
+echo '                  \_______________________________________/ ';
+echo '               _______________________________________________ ';
+echo '              _-'    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_ ';
+echo '           _-'.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_ ';
+echo '        _-'.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_ ';
+echo '     _-'.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_ ';
+echo '   _-'.-.-.-.-.-. .---.-. .-----------------------------. .-.---. .---.-.-.-.`-_ ';
+echo '  :-----------------------------------------------------------------------------: ';
+echo ' `---._.-----------------------------------------------------------------._.---' ';
+
+
 echo 'Login To Your Account First!'
 echo ''
 read -p 'Username/Email:' username
